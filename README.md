@@ -11,9 +11,12 @@ This plugin can be installed in wordPress and will do the following:
 * I added a hidden honeypot field to prevent spam, so far it's worked pretty well.
 
 ## Installation
-1. download the plugin
-2. install the plugin through the WordPress Dashboard as normal.
-3. on the page where you want the form add the short code "[axyum_form]  (in the brackets it's axyum_form )"
+1. download the zip file
+2. extract the folder
+3. open the exctracted folder and rename the folder to axyum-form
+4. zip the renamed folder back up and this will be the plugin zip file you will install
+5. install the plugin through the WordPress Dashboard as normal.
+6. on the page where you want the form add the short code "[axyum_form]  (in the brackets it's axyum_form )"
 
 ** Note **
 In order for this plugin to work you will need to have an SMTP plugin setup as well.  I have had success with WP Mail SMTP https://wpmailsmtp.com/ .  
